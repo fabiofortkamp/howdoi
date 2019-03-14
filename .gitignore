@@ -185,3 +185,5 @@ fabric.properties
 .ropeproject
 README.html
 .idea
+.vscode/
+Pipfile.lock
